@@ -11,4 +11,4 @@ Construir uma plataforma de gerenciammento de alunos de uma escola de ensino fun
     C - Pais/Alunos
 
 # Referencias utilizadas no projeto
--
+- Layout inicial: https://codepen.io/m2creates/pen/EEvGgW
